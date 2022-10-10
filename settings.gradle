@@ -1,0 +1,3 @@
+rootProject.name = "WangDemo"
+include ':app'
+include ':mylibrary'
